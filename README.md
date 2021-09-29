@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WinterSunset95
+- 👋 Hi, my name's αυтυмη
 - 👀 I’m interested in pen testing(and yes I'm a newbie)
 - 🌱 I’m currently learning to code my own tools with python
 - 📫 How to reach me ...
