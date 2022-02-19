@@ -1,6 +1,6 @@
 <h1>Winter Sunset</h1><br>
-IG- <a href=''>winter_sunset_95</a><br>
-FB- <a href=''>Winter Sunset</a><br>
+IG- <a href='https://instagram.com/winter_sunset_95'>winter_sunset_95</a><br>
+FB- <a href='https://www.facebook.com/WinterSunset095'>Winter Sunset</a><br>
 <br>
 <b>Is: </b><br>
 * Professional retard<br>
