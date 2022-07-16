@@ -1,6 +1,6 @@
 <h1>Winter Sunset</h1><br>
-IG- <a href='https://instagram.com/winter_sunset_95'>winter_sunset_95</a><br>
-FB- <a href='https://www.facebook.com/WinterSunset095'>Winter Sunset</a><br>
+Reddit - <a href='https://reddit.com/u/WallaceThiago95'>WallaceThiago95</a><br>
+Discord server - <a href='https://discord.gg/82sty2CF83'>Programmers' guild</a><br>
 <br>
 <b>Is: </b><br>
 * Professional retard<br>
