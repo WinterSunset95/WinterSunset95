@@ -21,18 +21,19 @@ I am Winter
 <hr>
 
 <div>  
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>   
+  <p align="center">
+    <a href="https://github.com/1999AZZAR/">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
+    </a>
+   </p>
+  <br>
+</div>   
 
 Reddit - <a href='https://reddit.com/u/WallaceThiago95'>WallaceThiago95</a><br>
 Discord server - <a href='https://discord.gg/82sty2CF83'>Programmers' guild</a><br>
 <br>
+<!--
 <b>Is: </b><br>
 * Professional retard<br>
 * Meme lord<br>
@@ -48,7 +49,7 @@ Discord server - <a href='https://discord.gg/82sty2CF83'>Programmers' guild</a><
 <br>
 <b>Is proficient in: </b><br>
 * Forgetting wtf my code from yesterday does<br>
-
+-->
 
 
 
