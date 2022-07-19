@@ -34,6 +34,9 @@ I am Winter
 Reddit - <a href='https://reddit.com/u/WallaceThiago95'>WallaceThiago95</a><br>
 Discord server - <a href='https://discord.gg/82sty2CF83'>Programmers' guild</a><br>
 <br>
+<br><br>
+<small><i>Profile looks better on landscape screen orientation</i></small>
+
 <!--
 <b>Is: </b><br>
 * Professional retard<br>
