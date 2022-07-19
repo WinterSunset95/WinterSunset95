@@ -27,8 +27,10 @@ I am Winter
       <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
     </a>
    </p>
-  <br>
-</div>   
+</div> 
+<hr>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=WinterSunset95&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<hr>
 
 <img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
 Reddit - <a href='https://reddit.com/u/WallaceThiago95'>WallaceThiago95</a><br>
