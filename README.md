@@ -6,6 +6,12 @@
       <a href="mailto:wintersunset95@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="winter" height="30"/></a>
+      <a href="https://reddit.com/u/WallaceThiago95" target="blank"><img align="center"
+         src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white"
+         alt="Winter" height="30"/></a>
+      <a href="https://discord.gg/82sty2CF83" target="blank"><img align="center"
+         src="https://img.shields.io/badge/discord-darkblue?style=for-the-badge&logo=discord&logoColor=white"
+         alt="Winter" height="30"/></a>
     </p>
 <br>
 <p align="center">
@@ -42,8 +48,7 @@ I am Winter
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
-Reddit - <a href='https://reddit.com/u/WallaceThiago95'>WallaceThiago95</a><br>
-Discord server - <a href='https://discord.gg/82sty2CF83'>Programmers' guild</a><br>
+<br><br>
 <br>
 <br><br>
 <small><i>Profile looks better on landscape screen orientation</i></small>
