@@ -1,4 +1,13 @@
-<h1 align='center'>Winter Sunset</h1><br>
+<h1 align='center'>Winter Sunset</h1>
+   <p align="center">
+      <a href="https://facebook.com/autumntowinter" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="Winter" height="30"/></a>
+      <a href="mailto:wintersunset95@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="winter" height="30"/></a>
+    </p>
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+Power+User;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
