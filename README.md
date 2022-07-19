@@ -30,6 +30,7 @@ I am Winter
   <br>
 </div>   
 
+<img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
 Reddit - <a href='https://reddit.com/u/WallaceThiago95'>WallaceThiago95</a><br>
 Discord server - <a href='https://discord.gg/82sty2CF83'>Programmers' guild</a><br>
 <br>
