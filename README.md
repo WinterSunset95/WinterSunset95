@@ -51,6 +51,7 @@ I am Winter
 <br><br>
 <br>
 <br><br>
+<hr>
 <small><i>Profile looks better on landscape screen orientation</i></small>
 
 <!--
