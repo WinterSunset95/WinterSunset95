@@ -44,7 +44,7 @@ I am Winter
    </p>
 </div> 
 <hr>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=WinterSunset95&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=WinterSunset95&theme=react-dark&hide_border=true" /></a>
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
