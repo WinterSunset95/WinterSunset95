@@ -29,7 +29,7 @@ I am Winter
 📚 Computer science teaching assistant at NECA
 🔭 Smaller skills include bash scripting, python automation, web scraping and beginner-level pentesting
 🌟 Main languages: Python, JavaScript, Bash, Golang
-💖 In a complicated relationship with Rust
+💖 In a complicated relationship with Assembly language
 🎵 Fingerstyle guitarist
 ```
 </p>
