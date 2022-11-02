@@ -28,7 +28,7 @@ I am Winter
 💻 Self taught, self motivated full stack web developer currently studying machine learning
 📚 Computer science teaching assistant at NECA
 🔭 Smaller skills include bash scripting, python automation, web scraping and beginner-level pentesting
-🌟 Main languages: Python, JavaScript, Bash, Golang
+🌟 Main languages: Python, JavaScript, Bash, Golang, Rust
 💖 In a complicated relationship with Assembly language
 🎵 Fingerstyle guitarist
 ```
@@ -44,8 +44,11 @@ I am Winter
    </p>
 </div> 
 <hr>
+
+<!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://my-github-graph.herokuapp.com/graph/?username=WinterSunset95&theme=react-dark&hide_border=true" /></a>
 <hr>
+-->
 
 <img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
 <br><br>
