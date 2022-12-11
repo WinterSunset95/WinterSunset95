@@ -45,10 +45,8 @@ I am Winter
 </div> 
 <hr>
 
-<!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://my-github-graph.herokuapp.com/graph/?username=WinterSunset95&theme=react-dark&hide_border=true" /></a>
 <hr>
--->
 
 <img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
 <br><br>
@@ -56,25 +54,6 @@ I am Winter
 <br>
 <hr>
 <small><i>Profile looks better on landscape screen orientation</i></small>
-
-<!--
-<b>Is: </b><br>
-* Professional retard<br>
-* Meme lord<br>
-* Occasionally achieves one of his goals づ(っ'-')╮=͟͟͞͞⚽🥅<br>
-* Only to fail in another 10<br>
-<br>
-<b>Currently learning: </b><br>
-* Responsive web design<br>
-* Building bots with python<br>
-* Nodejs backend<br>
-* Assembly<br>
-* Scripting my own command line tools<br>
-<br>
-<b>Is proficient in: </b><br>
-* Forgetting wtf my code from yesterday does<br>
--->
-
 
 
 <!---
