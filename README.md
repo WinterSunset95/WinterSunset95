@@ -15,7 +15,7 @@
     </p>
 <br>
 
-<!---->
+<!-- Green squares mf -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+Power+User;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -30,7 +30,7 @@ I am Winter
 💻 Self taught, self motivated full stack web developer currently studying machine learning
 📚 Computer science teaching assistant at NECA
 🔭 Smaller skills include bash scripting, python automation, web scraping and beginner-level pentesting
-🌟 Main languages: Python, JavaScript, Bash, Golang, Rust
+🌟 Main languages: Python, JavaScript, Bash, Golang, Rust, Php
 💖 In a complicated relationship with Assembly language
 🎵 Fingerstyle guitarist
 ```
