@@ -47,9 +47,7 @@ I am Winter
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
-<br><br>
-<br>
-<br>
+
 <hr>
 <small><i>Profile looks better on landscape screen orientation</i></small>
 <!---
