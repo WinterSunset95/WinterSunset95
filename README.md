@@ -29,7 +29,7 @@ I am Winter
 💻 Self taught, self motivated full stack web developer currently studying machine learning
 📚 Computer science teaching assistant at NECA
 🔭 Smaller skills include bash scripting, python automation, web scraping and beginner-level pentesting
-🌟 Main languages: Python, JavaScript, Bash, Golang, Rust
+🌟 Main languages: Python, JavaScript, Bash, Golang, Rust, C
 💖 In a complicated relationship with Assembly language
 🎵 Fingerstyle guitarist
 ```
