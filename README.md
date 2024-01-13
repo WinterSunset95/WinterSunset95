@@ -40,8 +40,8 @@ I am Winter
 <div>  
   <p align="center">
     <a href="https://wintersunset95.github.io/WinterSunset95">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
     </a>
    </p>
 </div> 
