@@ -18,19 +18,32 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Linux+Power+User;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-<img align='left' width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSunset95&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="WinterSunset95 :: Top Langs" />
+
 <!--<img align="left" src="https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537_960_720.jpg" width='390'/>-->
 <hr/>
-<p align='right'>
+<p align='center'>
 
 ```
-I am Winter
--------------------------
-💻 Self taught, self motivated full stack web developer currently studying machine learning
-📚 Computer science teaching assistant at NECA
-🔭 Smaller skills include bash scripting, python automation, web scraping and beginner-level pentesting
-🌟 Main languages: Python, JavaScript, Bash, Golang, Rust, C
-💖 In a complicated relationship with Assembly language
+💻 Frameworks & Tools
+   - Frontend: SvelteKit, NextJs, React + Vite, Ionic React, Capacitor, React Native
+   - Backend: Gin (Golang), Oak (Deno), Express (Node), Laravel (PHP)
+   - Other: Selenium (Python & Js), DrissionPage (Python), WhatsMeow (Golang)
+📚 Work Experience
+   - Computer Science teacher at The Pathway School
+   - Office Assistant at The Pathway School
+   - Freelance
+🔭 Main skills
+   - Fullstack web development with a wide range of tools and frameworks
+   - Web scraping/Data collection
+   - Linux, system administration/management
+   - Scripting command line tools
+🌟 Programming languages:
+   - Language doesn't matter
+   - 90% of programming is problem solving
+   - I'll learn anything required of me
+💖 Random Tidbits:
+   - I love music. I can play multiple instruments proficiently
+   - Non-introverted software developer!! Can you believe that?
 🎵 Fingerstyle guitarist
 ```
 
@@ -38,12 +51,11 @@ I am Winter
 <hr>
 
 <div>  
-  <p align="center">
     <a href="https://wintersunset95.github.io/WinterSunset95">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
+      <img width="31%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
+      <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSunset95&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="WinterSunset95 :: Top Langs" />
     </a>
-   </p>
 </div> 
 <hr>
 
