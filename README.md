@@ -1,16 +1,19 @@
 <h1 align='center'>Winter Sunset</h1>
    <p align="center">
-      <a href="https://facebook.com/autumntowinter" target="blank"><img align="center"
+      <a href="https://facebook.com/autumntowinter" target="_blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="Winter" height="30"/></a>
-      <a href="mailto:wintersunset95@gmail.com" target="blank"><img align="center"
+      <a href="mailto:wintersunset95@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="winter" height="30"/></a>
-      <a href="https://reddit.com/u/WallaceThiago95" target="blank"><img align="center"
+      <a href="https://reddit.com/u/WallaceThiago95" target="_blank"><img align="center"
          src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white"
          alt="Winter" height="30"/></a>
-      <a href="https://discord.gg/82sty2CF83" target="blank"><img align="center"
+      <a href="https://discord.com/users/609585269339062282" target="_blank"><img align="center"
          src="https://img.shields.io/badge/discord-darkblue?style=for-the-badge&logo=discord&logoColor=white"
+         alt="Winter" height="30"/></a>
+      <a href="https://instagram.com/wallace.thiago" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"
          alt="Winter" height="30"/></a>
     </p>
 <br>
@@ -53,7 +56,7 @@
 <div>  
     <a href="https://wintersunset95.github.io/WinterSunset95">
       <img width="31%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />
+      <!--<img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />-->
       <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSunset95&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="WinterSunset95 :: Top Langs" />
     </a>
 </div> 
