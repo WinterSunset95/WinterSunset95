@@ -53,13 +53,13 @@
 </p>
 <hr>
 
-<div>  
-    <a href="https://wintersunset95.github.io/WinterSunset95">
-      <img width="31%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
+<p align="center">  
+    <a href="https://wintersunset95.github.io/WinterSunset95" target="_blank">
+      <img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=WinterSunset95&show_icons=true&theme=gruvbox&hide_border=true" />
       <!--<img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinterSunset95&theme=gruvbox&hide_border=true" />-->
-      <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSunset95&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="WinterSunset95 :: Top Langs" />
+      <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterSunset95&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="WinterSunset95 :: Top Langs" />
     </a>
-</div> 
+</p> 
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=WinterSunset95&style=plastic" />
